@@ -5,4 +5,4 @@ const app = Fastify()
 
 app.register(Enhance)
 
-app.listen({ port: 3000 }, console.log)
+app.listen({ port: 80 }, console.log)
