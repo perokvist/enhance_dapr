@@ -11,6 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@dapr/dapr": "^2.5.0",
     "@enhance/fastify-plugin": "^1.0.0",
     "fastify": "^4.6.0"
   }
