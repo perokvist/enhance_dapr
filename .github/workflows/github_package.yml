@@ -27,6 +27,6 @@ jobs:
         file: DockerFile
         push: true
         tags: |
-              ghcr.io/perokvist/samples/enhance_dapr:v${{github.run_number}}  
-              ghcr.io/perokvist/samples/enhance_dapr:latest     
+              ghcr.io/perokvist/enhance_dapr/enhance_dapr:v${{github.run_number}}  
+              ghcr.io/perokvist/enhance_dapr/enhance_dapr:latest     
 
